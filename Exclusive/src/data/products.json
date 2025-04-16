@@ -1,0 +1,419 @@
+[
+    {
+      "id": 1,
+      "name": "Breed Dry Dog Food",
+      "price": 100,
+      "rating": 3.5,
+      "reviews": 35,
+      "image": "/images/DOGFOOD.png",
+      "heart": "/icons/Wishlist.svg",
+      "redheart": "/icons/favorite.png",
+      "stock":"In stock",
+      "eye": "/icons/Quick View.svg",
+      "stars": [
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/emptystar.svg",
+        "/icons/emptystar.svg"
+        ]
+    },
+    {
+      "id": 2,
+      "name": "CANON EOS DSLR Camera",
+      "price": 360,
+      "rating": 4,
+      "reviews": 95,
+      "image": "/images/CAMERA.png",
+      "heart": "/icons/Wishlist.svg",
+      "redheart": "/icons/favorite.png",
+      "stock":"In stock",
+      "eye": "/icons/Quick View.svg",
+      "stars": [
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/emptystar.svg"
+        ]
+    },
+    {
+      "id": 3,
+      "name": "ASUS FHD Gaming Laptop",
+      "price": 700,
+      "rating": 5,
+      "reviews": 325,
+      "image": "/images/LAPTOP.png",
+      "heart": "/icons/Wishlist.svg",
+      "redheart": "/icons/favorite.png",
+      "stock":"In stock",
+      "eye": "/icons/Quick View.svg",
+      "stars": [
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/star.svg"
+        ]
+    },
+    {
+      "id": 4,
+      "name": "Curology Product Set",
+      "price": 500,
+      "rating": 4,
+      "reviews": 145,
+      "image": "/images/SKINCARE.png",
+      "heart": "/icons/Wishlist.svg",
+      "redheart": "/icons/favorite.png",
+      "stock":"In stock",
+      "eye": "/icons/Quick View.svg",
+      "stars": [
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/star.svg",
+        "/icons/emptystar.svg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Kids Electric Car",
+        "price": 960,
+        "rating": 5,
+        "reviews": 65,
+        "isNew": true,
+        "image": "/images/CAR.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "colors": [
+          {"name": "Red", "code": "#FB1314"},
+          {"name": "Coral", "code": "#DB4444"}
+        ],
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg"
+          ]
+      },
+      {
+        "id": 6,
+        "name": "Jr. Zoom Soccer Cleats",
+        "price": 1160,
+        "rating": 5,
+        "reviews": 35,
+        "image": "/images/SHOES.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg"
+          ],
+          "colors": [
+            {"name": "Red", "code": "#EEFF61"},
+            {"name": "Coral", "code": "#DB4444"}
+          ]
+      },
+      {
+        "id": 7,
+        "name": "GP11 Shooter USB Gamepad",
+        "price": 660,
+        "rating": 5,
+        "reviews": 55,
+        "isNew": true,
+        "image": "/images/GAME.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg"
+          ],
+          "colors": [
+            {"name": "Red", "code": "#000000"},
+            {"name": "Coral", "code": "#DB4444"}
+          ]
+      },
+      {
+        "id": 8,
+        "name": "Quilted Satin Jacket",
+        "price": 660,
+        "rating": 5,
+        "reviews": 325,
+        "image": "/images/SHIRT.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg"
+          ],
+          "colors": [
+            {"name": "Red", "code": "#184A48"},
+            {"name": "Coral", "code": "#DB4444"}
+          ]
+      },
+      {
+        "id": 9,
+        "name": "HAVIT HV-G92 Gamepad",
+        "price": 120,
+        "rating": 5,
+        "reviews": 88,
+        "image": "/images/gamepadred.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg"
+          ]
+      },
+      {
+        "id": 10,
+        "name": "AK-900 Wired Keyboard",
+        "price": 960,
+        "rating": 5,
+        "reviews": 75,
+        "image": "/images/keyboard.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/emptystar.svg"
+          ]
+      },
+      {
+        "id": 11,
+        "name": "IPS LCD Gaming Monitor",
+        "price": 370,
+        "rating": 5,
+        "reviews": 99,
+        "image": "/images/computer.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg"
+          ]
+      },
+      {
+        "id": 12,
+        "name": "RGB liquid CPU Cooler",
+        "price": 370,
+        "rating": 5,
+        "reviews": 99,
+        "image": "/images/speaker.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg"
+          ]
+      },
+      {
+        "id": 13,
+        "name": "Breed Dry Dog Food",
+        "price": 100,
+        "rating": 3.5,
+        "reviews": 35,
+        "image": "/images/DOGFOOD.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/emptystar.svg",
+          "/icons/emptystar.svg"
+          ]
+      },
+      {
+        "id": 14,
+        "name": "CANON EOS DSLR Camera",
+        "price": 360,
+        "rating": 4,
+        "reviews": 95,
+        "image": "/images/CAMERA.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/emptystar.svg"
+          ]
+      },
+      {
+        "id": 15,
+        "name": "ASUS FHD Gaming Laptop",
+        "price": 700,
+        "rating": 5,
+        "reviews": 325,
+        "image": "/images/LAPTOP.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg"
+          ]
+      },
+      {
+        "id": 16,
+        "name": "Curology Product Set",
+        "price": 500,
+        "rating": 4,
+        "reviews": 145,
+        "image": "/images/SKINCARE.png",
+        "heart": "/icons/Wishlist.svg",
+        "redheart": "/icons/favorite.png",
+        "stock":"In stock",
+        "eye": "/icons/Quick View.svg",
+        "stars": [
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/star.svg",
+          "/icons/emptystar.svg"
+          ]
+      },
+      {
+          "id": 17,
+          "name": "Kids Electric Car",
+          "price": 960,
+          "rating": 5,
+          "reviews": 65,
+          "isNew": true,
+          "image": "/images/CAR.png",
+          "heart": "/icons/Wishlist.svg",
+          "redheart": "/icons/favorite.png",
+          "stock":"In stock",
+          "eye": "/icons/Quick View.svg",
+          "colors": [
+            {"name": "Red", "code": "#FB1314"},
+            {"name": "Coral", "code": "#DB4444"}
+          ],
+          "stars": [
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg"
+            ]
+        },
+        {
+          "id": 18,
+          "name": "Jr. Zoom Soccer Cleats",
+          "price": 1160,
+          "rating": 5,
+          "reviews": 35,
+          "image": "/images/SHOES.png",
+          "heart": "/icons/Wishlist.svg",
+          "redheart": "/icons/favorite.png",
+          "stock":"In stock",
+          "eye": "/icons/Quick View.svg",
+          "stars": [
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg"
+            ],
+            "colors": [
+              {"name": "Red", "code": "#EEFF61"},
+              {"name": "Coral", "code": "#DB4444"}
+            ]
+        },
+        {
+          "id": 19,
+          "name": "GP11 Shooter USB Gamepad",
+          "price": 660,
+          "rating": 5,
+          "reviews": 55,
+          "isNew": true,
+          "image": "/images/GAME.png",
+          "heart": "/icons/Wishlist.svg",
+          "redheart": "/icons/favorite.png",
+          "stock":"In stock",
+          "eye": "/icons/Quick View.svg",
+          "stars": [
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg"
+            ],
+            "colors": [
+              {"name": "Red", "code": "#000000"},
+              {"name": "Coral", "code": "#DB4444"}
+            ]
+        },
+        {
+          "id": 20,
+          "name": "Quilted Satin Jacket",
+          "price": 660,
+          "rating": 5,
+          "reviews": 325,
+          "image": "/images/SHIRT.png",
+          "heart": "/icons/Wishlist.svg",
+          "redheart": "/icons/favorite.png",
+          "stock":"In stock",
+          "eye": "/icons/Quick View.svg",
+          "stars": [
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg",
+            "/icons/star.svg"
+            ],
+            "colors": [
+              {"name": "Red", "code": "#184A48"},
+              {"name": "Coral", "code": "#DB4444"}
+            ]
+        }
+  ]
+  
