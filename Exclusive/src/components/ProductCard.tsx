@@ -27,11 +27,11 @@ const ProductCard = ({ product }) => {
               NEW
             </span>
           )}
-          <img
+          <Link to={`/product/${product.id}`}><img
             src={product.image}
             alt={product.name}
             className="w-fit h-48 mx-auto object-contain pt-4 px-4 "
-          />
+          /></Link>
           <button
             className="absolute top-2 right-2 p-1 rounded-full bg-white shadow-sm"
             onClick={toggleHeart}

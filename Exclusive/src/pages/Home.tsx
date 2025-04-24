@@ -46,14 +46,26 @@ const Home = () => {
               <h1 className="text-2xl sm:text-4xl text-black font-medium mt-2 leading-snug md:text-4xl mid-text-5xl">Browse By Category</h1>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 mid:grid-cols-4 xl5:grid-cols-6 gap-4">
-              {categoriesData.map((category) => (
+              {/* {categoriesData.map((category) => (
                 <Card key={category.id} className="text-center p-4 border-1 border-[#0000004D] rounded-lg shadow-sm hover:shadow-md transition-shadow" >
                   <CardBody>
                     <img src={`${category.icon}`} alt={category.name} className="mx-auto mb-2 w-12 h-12"/>
                     <CardTitle tag="h5" className="text-base text-[#000] font-normal"> {category.name}</CardTitle>
                   </CardBody>
                 </Card>
+              ))} */}
+              {categoriesData.map((category) => (
+                <a href={`/category/${category.name}`} key={category.id}>
+                  <Card className="text-center p-4 border-1 border-[#0000004D] rounded-lg shadow-sm hover:shadow-md transition-shadow cursor-pointer" >
+                    <CardBody>
+                      <img src={category.icon} alt={category.name} className="mx-auto mb-2 w-12 h-12"/>
+                      <CardTitle tag="h5" className="text-base text-[#000] font-normal">{category.name}</CardTitle>
+                    </CardBody>
+                  </Card>
+                </a>
               ))}
+
+
             </div>
           </section>
           {/* product section */}
