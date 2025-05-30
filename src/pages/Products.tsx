@@ -1,6 +1,6 @@
 import ProductCard from "../components/ProductCard";
 import products from "../data/products.json";
-import { useLocation, Link} from 'react-router-dom';
+import { useLocation} from 'react-router-dom';
 
 
 const ProductGrid = () => {

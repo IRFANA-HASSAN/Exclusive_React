@@ -6,7 +6,6 @@ import Delivery from '../assets/icons/black-delivery.svg';
 import Return from '../assets/icons/black-return.svg';
 
 const Product = () => {
-  const location = useLocation();
   const { id } = useParams();
   const product = products.find(item => item.id.toString() === id);
 
