@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { useLocation, useParams } from 'react-router-dom';
 import products from '../data/products.json';
 import ProductCard from '../components/ProductCard';

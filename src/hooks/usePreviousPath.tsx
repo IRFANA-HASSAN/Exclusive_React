@@ -4,7 +4,7 @@ import { useLocation } from "react-router-dom";
 
 const usePreviousPath = () => {
   const location = useLocation();
-  const previousRef = useRef();
+  const previousRef = useRef<string | null>(null);;
 
   useEffect(() => {
     previousRef.current = location.pathname;

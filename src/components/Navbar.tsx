@@ -3,7 +3,6 @@ import { useState } from 'react';
 import Search from '../assets/icons/Vector.svg';
 import Heart from '../assets/icons/heart.svg';
 import Cart from '../assets/icons/Cart1.svg';
-import { Link } from 'react-router-dom';
 
 
 

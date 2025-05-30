@@ -1,5 +1,4 @@
-// src/components/ServiceHighlights.jsx
-import React from 'react';
+
 
 const services = [
   {
